@@ -1,0 +1,20 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compilerOptions": {
+    /* Modules */
+    "moduleResolution": "bundler",
+    "types": ["node"],
+
+    /* Emit */
+    "declaration": true,
+    "declarationMap": true,
+    "noEmit": true,
+    "sourceMap": true,
+
+    /* Interop Constraints */
+
+    /* Language and Environment */
+    "lib": ["ES2024"],
+    "target": "ES2024"
+  }
+}
