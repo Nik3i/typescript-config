@@ -29,7 +29,9 @@
     "tsconfig.base.json",
     "tsconfig.browser.json",
     "tsconfig.node.json",
-    "tsconfig.react.json"
+    "tsconfig.react.json",
+    "tsconfig.solid.json",
+    "tsconfig.vue.json"
   ],
   "scripts": {
     "test": "test",
