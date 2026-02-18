@@ -13,6 +13,7 @@
     "strict": true,
 
     /* Modules */
+    "allowImportingTsExtensions": true,
     "module": "ESNext",
     "noUncheckedSideEffectImports": true,
 
@@ -23,6 +24,7 @@
     /* Editor Support */
 
     /* Interop Constraints */
+    "erasableSyntaxOnly": true,
     "isolatedModules": true,
     "verbatimModuleSyntax": true,
 
