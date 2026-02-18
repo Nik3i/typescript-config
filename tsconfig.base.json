@@ -33,6 +33,7 @@
     /* Language and Environment */
     "moduleDetection": "force",
     "target": "ESNext",
+    "useDefineForClassFields": true,
 
     /* Compiler Diagnostics */
 
