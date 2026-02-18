@@ -1,0 +1,42 @@
+{
+  // Visit https://aka.ms/tsconfig to read more about this file
+  "compilerOptions": {
+    /* Type Checking */
+    "exactOptionalPropertyTypes": true,
+    "noUncheckedIndexedAccess": true,
+    "strict": true,
+
+    /* Modules */
+    "module": "ESNext",
+    "noUncheckedSideEffectImports": true,
+
+    /* Emit */
+
+    /* JavaScript Support */
+
+    /* Editor Support */
+
+    /* Interop Constraints */
+    "isolatedModules": true,
+    "verbatimModuleSyntax": true,
+
+    /* Backwards Compatibility */
+
+    /* Language and Environment */
+    "moduleDetection": "force",
+    "target": "ESNext",
+
+    /* Compiler Diagnostics */
+
+    /* Projects */
+
+    /* Output Formatting */
+
+    /* Completeness */
+    "skipLibCheck": true
+
+    /* Command Line */
+
+    /* Watch Options */
+  }
+}
