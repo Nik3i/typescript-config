@@ -5,6 +5,7 @@
     "noFallthroughCasesInSwitch": true,
     "noImplicitOverride": true,
     "noImplicitReturns": true,
+    "noImplicitThis": true,
     "noPropertyAccessFromIndexSignature": true,
     "exactOptionalPropertyTypes": true,
     "noUncheckedIndexedAccess": true,
@@ -25,12 +26,15 @@
 
     /* Interop Constraints */
     "erasableSyntaxOnly": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
     "isolatedModules": true,
     "verbatimModuleSyntax": true,
 
     /* Backwards Compatibility */
 
     /* Language and Environment */
+    "libReplacement": false,
     "moduleDetection": "force",
     "target": "ESNext",
     "useDefineForClassFields": true,
